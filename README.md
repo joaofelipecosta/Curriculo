@@ -1,5 +1,3 @@
-# Currículo
-Desafio 1. Currículo ProgramadorBR Html Básico
 <!DOCTYPE html>
 <html>
 <head>
